@@ -1,0 +1,12 @@
+,名称,内容
+0,survival,生存結果（1：生存、２：死亡)
+1,pclass,乗客クラス（1:1stクラス、2:2stクラス、3:3rdクラス)
+2,name,氏名
+3,sex,性別
+4,age,年齢
+5,sibsp,乗船している兄弟／配偶者の数
+6,parch,乗船している親／子供の数
+7,ticket,チケット番号
+8,fare,旅客運賃
+9,cabin,船室
+10,embarked,"乗船港(C=cherbourg,Q=Queenstown,S=Southampton)"
